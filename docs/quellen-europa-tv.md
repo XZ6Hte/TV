@@ -4,7 +4,7 @@ project: satzart
 date: 2026-11-01
 tags: [satzart, quellen, europa, technische-versicherung, datenstandard, musterbedingungen]
 status: recherche
-bezug: "[[glossare-versicherung]] · [[glossar-v0.1]]"
+bezug: "[[glossare-versicherung]] · [[glossar]]"
 ---
 
 # Quellen Europa – technische Versicherung
@@ -148,7 +148,7 @@ Kernaussagen: SVV ist ein echtes Äquivalent für Maschinen, Bauwesen, Montage. 
 
 ---
 
-## Landesbegriffe TV (Ergänzung zu [[glossar-v0.1]])
+## Landesbegriffe TV (Ergänzung zu [[glossar]])
 
 | key | DE | CH | GB | FR | IT | BE (NL/FR) | NL | ES |
 |---|---|---|---|---|---|---|---|---|

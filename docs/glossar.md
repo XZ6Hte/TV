@@ -8,7 +8,7 @@ status: entwurf
 quellen: "[[glossare-versicherung]]"
 ---
 
-# Glossar satzart – v0.1
+# Glossar satzart
 
 > [!info] Geltungsbereich
 > Entwurf aus der Quellenrecherche vom 2026-11-01 ([[glossare-versicherung]]). Definitionen sind eigene Kurzfassungen und kein Bedingungstext. ACORD-Abgleich steht aus.
@@ -121,7 +121,7 @@ Links: [[glossare-versicherung#GDV-Musterbedingungen Technische Versicherung (Pr
 | `general_part` | Allgemeiner Teil (AT) | spartenübergreifende Regeln (Beginn, Beitrag, Obliegenheiten); GDV-Muster gemeinsam für Haftpflicht, D&O, Sach, TV ohne Projektgeschäft | belegt (GDV) |
 | `special_part` | Besonderer Teil | spartenspezifischer Deckungsumfang (versicherte Sachen, Gefahren, Entschädigung) | belegt (GDV) |
 
-## Offene Punkte v0.1
+## Offene Punkte
 
 - `fachlich`-Einträge mit Primärquelle belegen (GDV-AVB, ACORD).
 - DE-Äquivalente für CECR, OAR, DOS, Decennial verifizieren.
