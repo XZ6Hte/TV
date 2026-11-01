@@ -219,7 +219,7 @@ Vollständige Länderrecherche (AT, CH, BE, NL, ES, GB, FR, IT, übrige, EU) →
 
 ## Nächste Schritte
 
-- [x] Glossar v0.1 aus Rechercheergebnissen erstellt → [[glossar-v0.1]]
+- [x] Glossar aus Rechercheergebnissen erstellt → [[glossar]]
 
 ### ACORD (Zugang vorhanden – Login durch Nutzer im eingebauten Browser)
 - [ ] Desktop-App öffnen, Computer bestätigen, acord.org im eingebauten Browser starten
@@ -227,13 +227,13 @@ Vollständige Länderrecherche (AT, CH, BE, NL, ES, GB, FR, IT, übrige, EU) →
 - [ ] Mitgliedsumfang prüfen: Business Glossary V2.12, GRLC Data Dictionary, Codelisten
 - [ ] GRLC Data Dictionary auf TV-Sparten durchsuchen (CAR, EAR, MB, MLOP, ALOP/DSU, CECR, CPM)
 - [ ] Mit- und Rückversicherung abgleichen (coinsurance, lead, quota share, XL, retrocession)
-- [ ] `key`-Felder in [[glossar-v0.1]] gegen ACORD-Bezeichner abgleichen
+- [ ] `key`-Felder in [[glossar]] gegen ACORD-Bezeichner abgleichen
 - [ ] Lizenzbedingungen prüfen: Darf ACORD-Terminologie in satzart übernommen werden?
 - [ ] Nutzer ändert Passwort nach Abschluss (falls doch geteilt)
 
 ### Übrige
 - [x] GDV-Musterbedingungen TV inkl. Klauseln erfasst (Quelle: gdv.de)
-- [ ] Begriffsdefinitionen (⇒-markierte Begriffe) aus AMB, ABMG, ABE, AMoB, ABBL, MGar extrahieren → [[glossar-v0.1]]
+- [ ] Begriffsdefinitionen (⇒-markierte Begriffe) aus AMB, ABMG, ABE, AMoB, ABBL, MGar extrahieren → [[glossar]]
 - [ ] Klauselnummernschema (TK A / TK B, Spartenblöcke) als Datenmodell für Klausel-Katalog prüfen
 - [ ] Gemeinsamen Allgemeinen Teil AT AH-D&O-Sach-TV auswerten (Definitionen für `core`)
 - [ ] GDV-Glossar auf TV-Begriffe prüfen
@@ -241,7 +241,7 @@ Vollständige Länderrecherche (AT, CH, BE, NL, ES, GB, FR, IT, übrige, EU) →
 
 ### GDV-Datensatz (gdv-online.de)
 - [ ] Aktuelles Release + XML-Beschreibung laden (Download-Bereich)
-- [ ] Spartenschlüssel der TV-Sparten extrahieren → Spalte `gdv_code` in [[glossar-v0.1]]
+- [ ] Spartenschlüssel der TV-Sparten extrahieren → Spalte `gdv_code` in [[glossar]]
 - [ ] Satzart 0300 (Beteiligungen) gegen Mitversicherungsmodell in satzart abgleichen
 - [ ] Satzart 0350 (Klauseln) gegen GDV-TK-Nummernschema abgleichen
 - [ ] Wertelisten/Anlagen als Lookup-Quellen bewerten (Lizenz: frei verfügbar)
@@ -249,7 +249,7 @@ Vollständige Länderrecherche (AT, CH, BE, NL, ES, GB, FR, IT, übrige, EU) →
 ### Europa
 - [x] Länderrecherche AT, CH, GB, FR, IT, übriges Europa, EU → [[quellen-europa-tv]]
 - [ ] OMDS (AT) und EIAC (ES) auf TV-Spartencodes prüfen; Ergebnis als Spalten `omds_code`, `eiac_code` im Mapping
-- [ ] Landesbegriffe aus [[quellen-europa-tv#Landesbegriffe TV (Ergänzung zu glossar-v0.1)]] als `i18n`-Felder ins Glossar übernehmen
+- [ ] Landesbegriffe aus [[quellen-europa-tv#Landesbegriffe TV (Ergänzung zu glossar)]] als `i18n`-Felder ins Glossar übernehmen
 - [ ] `design_clause` mit LEG 1/2/3 und DE1–DE5 konkretisieren
 - [ ] Offene Punkte in [[quellen-europa-tv#Offene Punkte]] abarbeiten
 
